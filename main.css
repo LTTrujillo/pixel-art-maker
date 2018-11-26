@@ -1,0 +1,86 @@
+h1 {
+    color: red;
+
+}
+
+
+.canvas{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+
+    
+}
+
+
+.pixel {
+    border-style: solid;
+    border-width: 1px;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+   
+}
+
+.red {
+    border-style: solid;
+    border-width: 1px;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+
+}
+
+.blue {
+    border-style: solid;
+    border-width: 1px;
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+
+}
+
+.green {
+    border-style: solid;
+    border-width: 1px;
+    width: 20px;
+    height: 20px;
+    background-color: green;
+
+}
+
+.yellow {
+    border-style: solid;
+    border-width: 1px;
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+
+}
+
+.orange {
+    border-style: solid;
+    border-width: 1px;
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+
+}
+
+.indigo {
+    border-style: solid;
+    border-width: 1px;
+    width: 20px;
+    height: 20px;
+    background-color: indigo;
+
+}
+
+.violet {
+    border-style: solid;
+    border-width: 1px;
+    width: 20px;
+    height: 20px;
+    background-color: violet;
+
+}
